@@ -5,8 +5,10 @@ public class Main {
 	
 	
 	/*
-	 * Die Anno-Spielreihe bringt seit mehreren Jahren nun Spiele immer mit denen
-	 * Spieljahren heraus, die eine Quersumme von 9 haben.
+	 * Die Anno-Spielreihe bringt seit mehreren Jahren Spiele immer mit denen
+	 * Spieljahren heraus, die eine Quersumme von 9 haben. Dieses Programm soll
+	 * in einem gegebenen Intervall alle Spieljahre mit der Quersumme 9 ausspucken, um zu schauen, welche weitere
+	 * Spieljahre ein Anno Spiel werden könnte.
 	 */
 	public static void main(String[] args) {
 		vonBis(0, 3000);

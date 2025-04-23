@@ -4,9 +4,7 @@ public class Main {
 	public static void main(String[] args) {
 		System.out.println(isPowerOfFour(64));
 		System.out.println(4.0 % 10);
-		//System.out.println(Math.sqrt(64));
-		//System.out.println(64 / 4.0);
-		// System.out.println(isPalindrome(121));
+		
 	}
 
 	public static boolean isPowerOfFour(int n) {
