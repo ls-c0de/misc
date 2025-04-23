@@ -1,6 +1,6 @@
 package scheduling_verfahren;
 
-public class FIFO implements IAlgorithmns {
+public class FIFO implements IAlgorithmn {
 	private Tick tick = Tick.getInstance();
 	
 	@Override

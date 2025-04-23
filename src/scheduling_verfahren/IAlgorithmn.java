@@ -1,5 +1,5 @@
 package scheduling_verfahren;
 
-public interface IAlgorithmns {
+public interface IAlgorithmn {
 	public int[] finishProcesses(Process[] list);
 }
